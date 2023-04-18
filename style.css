@@ -1,0 +1,352 @@
+body{
+    background-color: #ffffff4e;
+}
+header{
+    height: 20vh;
+    background: rgb(227, 224, 224);
+    width: 100%;
+}
+nav{
+    width: 70%;
+    height: 10vh;
+    margin-left: 250px;
+    margin-top: -580px;
+    background: oldlace;
+}
+.nav-link{
+margin-top: -60px ;
+    margin-left: 300px;
+}
+.nav-link ul li{
+    list-style: none;
+    padding-left: 20px;
+    padding: 10px 10px;
+    text-align: left;
+    float: left;
+}
+.nav-link ul li a{
+    color: black;
+    text-decoration: none;
+}
+.page-1{
+    height: 90vh;
+    width: 100%;
+    margin-top: -40px;
+    background-size: cover;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(picture/carousel-1.jpg);
+    background-repeat: no-repeat;
+}
+.book{
+    width: 200px;
+    height: 40px;
+    cursor: pointer;
+    background-color: green;
+    text-align: center;
+}
+form{
+    align-items: center;
+    margin-top: 500px;
+    margin-left: 100px;
+    background: white;
+    height: 60px;
+    width: 80%;
+}
+input{
+    width: 200px;
+}
+input:hover{
+    border: 7px solid forestgreen;
+}
+.btn-button{
+    width: 200px;
+}
+.page-2{
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.about-box{
+    margin-top: -570px;
+    margin-left: 400px;
+    width: 60%;
+    height: 80vh;
+    background: white ;
+    position: relative;
+}
+.book-2{
+    margin-top: 17px;
+    margin-left: 10px;
+    width: 140px;
+    border: none;
+    background-color: rgb(137, 223, 9);
+}
+.page-1-about {
+    height: 90vh;
+    width: 100%;
+    margin-top: -40px;
+    background-size: cover;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(picture/carousel-2.jpg);
+    background-repeat: no-repeat;
+}
+.page-3-about{
+    height: 40vh;
+    width: 90%;
+    margin-top: 70px;
+    margin-left: 60px;
+}
+.box{
+    width: 100px;
+    height: 80px;
+    background: rgb(95, 192, 95);
+}
+.text-1{
+    margin-left: 110px;
+    margin-top: -80px;
+}
+.text-information{
+    width: 90%;
+    padding-top: 160px;
+    padding-left: 120px;
+}
+.box-sign-up{
+    background-color: yellowgreen;
+    height: 16vh;
+    width: 80%;
+    font-weight: bold;
+    margin-left: 100px;
+}
+.sign-up-form{
+    align-items: center;
+    width: 80%;
+    margin-top: -20px;
+    height: 50vh;
+}
+.sign-up-form input{
+    width: 300px;
+    padding-top: 11px;
+    margin-left: 40px;
+}
+.sign-up-form select{
+    width: 300px;
+    margin-left: 40px;
+}
+.sign-up-1{
+    width: 300px;
+    height: 40px;
+    margin-left: 40px;
+    background: yellowgreen;
+}
+.guide{
+    text-align: center;
+    width: 80%;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+.guide  img{
+    height: 200px;
+    width: 200px;
+}
+.guide-box-info{
+    width: 200px;
+    height: 40px;
+}
+.guide img:hover{
+    cursor: pointer;
+    border: 1px solid yellowgreen;
+}
+footer{
+    height: 60vh;
+    width: 100%;
+    margin-top: 50px;
+    background: aliceblue;
+}
+.informaation{
+    padding-left: 12px;
+    width: 90%;
+    color: gray;
+}
+.icon{
+    text-align: center;
+    border:  1px solid yellowgreen;
+}
+footer ul li {
+    list-style: none;
+}
+footer ul li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.sign-1{
+    width: 150px;
+}
+.sub{
+    background: greenyellow;
+    text-align: center;
+    width: 100px;
+    border: 1px solid greenyellow;
+}
+.destination{
+    width: 100%;
+    margin-top: 220px;
+    text-align: center;
+    padding-left: 50px;
+    
+}
+.destination-cards{
+    width: 90%;
+    margin-left: 10px;
+    margin-top: 100px;
+}
+.box-text-1{
+    width: 200px;
+    height: 100px;
+    margin-left: 80px;
+    color: #ffff;
+    text-align: center;
+    margin-top: 50px;
+    background:  rgba(0, 0, 0, 0.71);
+}
+.box-text-1:hover{
+    cursor: pointer;
+    border: 10px solid rgba(239, 235, 235, 0.888);
+}
+.page-services{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 80%;
+    text-align: center;    
+}
+.box-3{
+    height: 50px;
+    margin-top: 88px;
+    margin-left: 108px;
+    width: 80px;
+    border:  2px solid green;
+}
+.box-3:hover{
+    background: green;
+    cursor: pointer;
+}
+.card{
+height: 300px;
+}
+.testimony{
+    margin-top: 550px;
+    text-align: center;
+}
+.send-message{
+    width: 60%;
+    height: 88vh;
+    margin-top: 150px;
+    margin-left: 250px;
+    text-align: center;
+}
+.send-message-btn{
+    margin-left: 50px;
+    height: 55px;
+    margin-top: 20px;
+    width: 200px;
+    color: white;
+    background: rgb(72, 117, 3);
+}
+.text-box-contact{
+    text-align: center;
+    margin-top: 250px;
+}
+.blog-page-1{
+    margin-top: 400px;
+    width: 80%;
+    margin-left: 100px;
+}
+.user-info{
+    width: 60%;
+    border: 1px solid #ffff;
+    height: 60vh;
+    
+    margin-left: 150px;
+}
+.user-images{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.blog-big-img{
+        height: 70vh;
+}
+.blog-info{
+    margin-top: 20px;
+}
+.blog-img-2{
+    float: left;
+    width: 250px;
+    height: 150px;
+}
+.blog-img-3{
+    float: right;
+    width: 250px;
+    height: 150px;
+}
+.comment{
+    margin-top: 40px;
+    width: 100%;
+}
+.user-img{
+    width: 90px;
+    height: 60px;
+    float: left;
+}
+.comments{
+    padding-left: -200px;
+}
+.leave-comment{
+    margin-top: 80px;
+    width: 50%;
+    margin-left: -10px;
+    height: 90vh;
+}
+.leave-comment-btn{
+    width: 250px;
+    height: 30px;
+    margin-top: 20px;
+    border: 2px solid yellowgreen;
+    background-color: yellowgreen;
+}
+.key-word{
+    margin-top: 100px;
+    width: 280px;
+    height: 100px;
+}
+.key-word-input{
+    margin-top: 35px;
+    margin-left: 20px;
+    width: 180px;
+    height: 40px;
+    border:  3px groove green;
+}
+.dislpay{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.btn-solid{
+    width: 22px;
+    height: 40px;
+    background: green;
+    margin-left: 200px;
+    margin-top: -40px;
+}
+.info-categories{
+    margin-top: 40px;
+    width: 280px;
+    height: 300px; 
+}
+.recent-post{
+    border: 1px solid yellowgreen;
+    width: 280px;
+    height: 260px;
+}
+.recent-post-img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+}
